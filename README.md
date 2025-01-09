@@ -10,3 +10,4 @@ A Python game that guesses the number you're thinking of (between 1 and 31).
 4. The program calculates and displays your number.
 
 ## Example
+if your number that you are thinking of is here type [y,n] ['1', '2', '5', '7', '9', '11', '13', '15', '17', '19', '21', '23', '25', '27', '29', '31'] y ... your number is: 17
